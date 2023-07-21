@@ -1,0 +1,16 @@
+.nav {
+  padding: 11px 0 13px 30px;
+}
+.nav-item {
+  margin-right: 58px;  
+  width: 53px;
+  height: 12px;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.nav-item:hover {
+  color: #2a2e34;
+}
+
+

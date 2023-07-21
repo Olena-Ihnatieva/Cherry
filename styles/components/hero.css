@@ -1,0 +1,32 @@
+.hero {
+  background-color: #262d34;
+  padding: 44px 0 38px 26px;
+  color: #c9c7c7;
+}
+
+.hero-content {
+  max-width: 484px;
+  display: inline-block;
+}
+
+.hero-title {
+  color: #ffffff;
+  text-transform: none;
+  margin-bottom: 2px;
+}
+
+.hero-subtitle {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 18px;
+  font-weight: 700;
+}
+
+.secondary-title {
+  margin-bottom: 9px;
+}
+
+.hero-description {
+  line-height: 18px;
+  margin-top: 0px;
+}

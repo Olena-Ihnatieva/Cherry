@@ -1,0 +1,29 @@
+.section {
+  padding-bottom: 30px;
+}
+
+.section-title {
+  display: block;
+  text-transform: none;
+  margin-bottom: 22px;
+}
+
+.section-description {
+  max-width: 696px;
+  color: #5c646e;
+  line-height: 20px;
+}
+
+.section-description > a {
+  text-decoration: underline;
+  color: #ff1744;
+}
+
+.section-description > a:hover {
+  color: #5c646e;
+}
+
+.section-list {
+  color: #5c646e;
+  line-height: 24px;
+} 

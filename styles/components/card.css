@@ -1,0 +1,28 @@
+.card {
+  line-height: 20px;
+  font-size: 12px;
+  
+}
+
+.card-title {
+  color: #282d33;
+  margin-bottom: 22px;
+}
+
+.card-description {
+  max-width: 210px;
+  color: #5c646e;
+  margin-bottom: 36px;
+}
+
+.card-link {
+  color:#ff1744;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.card-image {
+  margin-bottom: 30px;
+}
+
+

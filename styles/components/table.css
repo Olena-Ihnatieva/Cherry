@@ -1,0 +1,40 @@
+.table {
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+  line-height: 20px;
+  border-collapse: collapse;
+  background-color: #282d33;
+  color: #a5adb8;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.theader {
+  background-color: #ff1744;
+}
+
+.tbody > tr,th, td {
+  border: 1px solid #d8dbde;
+  padding: 13px 18px 8px;
+}
+
+.theader-title {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.two-column {
+  color: #9da4af;
+}
+
+.item-column {
+  line-height: 24px;
+}
+
+.item-column > a {
+  text-decoration: underline;
+}
+
+
+
