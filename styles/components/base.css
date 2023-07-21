@@ -74,10 +74,12 @@ hr {
 
 a {
   color: #d08b98;
+  text-decoration: none;
 }
 
 a:hover {
   color: #d08b98;
+  text-decoration: underline;
 }
 
 img {
